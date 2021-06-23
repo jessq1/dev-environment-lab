@@ -1,4 +1,4 @@
-![ReadMe](https://imgur.com/Kaqqt4L)
+![ReadMe](https://i.imgur.com/Kaqqt4L.png)
 
 # dev-environment-lab
 
